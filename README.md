@@ -318,7 +318,7 @@ If you use this code, please cite the paper:
 
 ```bibtex
 @inproceedings{pllmdy2026,
-  title={PLLM-DY: A Probabilistic Dolev-Yao Attacker Model 
+  title={PLLM-DY: A Probabilistic Dolev-Yao Model 
          for Multi-Agent LLM Systems},
   author={[Redacted for Review]},
   booktitle={[Under Submission]},
